@@ -1,0 +1,7 @@
+megs:32
+display_library: sdl2
+floppya: 1_44=boot.bin, status=inserted
+boot: a
+log: bochsout.txt
+mouse: enabled=0
+magic_break: enabled=1
